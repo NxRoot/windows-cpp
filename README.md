@@ -1,5 +1,5 @@
 # windows-cpp
-This is Portable C++ Compiler based on [clang](https://clang.llvm.org/).
+This is Portable C++ Compiler based on [llvm-clang](https://clang.llvm.org/).
 
 | Exe    | Description | Releases |
 | -------- | ------- | ------- |
