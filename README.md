@@ -1,5 +1,5 @@
 # windows-cpp
-This is C++ Compiler Installation based [llvm-clang](https://clang.llvm.org/).
+This is C++ Compiler Installation using [llvm-clang](https://clang.llvm.org/).
 
 | Exe    | Description | Releases |
 | -------- | ------- | ------- |
