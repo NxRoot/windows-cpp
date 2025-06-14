@@ -10,4 +10,4 @@ Run this in the terminal to build a cpp file and generate an executable:
 ```powershell
 clang++ main.cpp -o .\\output.exe
 ```
-For a more advanced usage check LLVM [documentation](https://clang.llvm.org/).
+For a more advanced usage check LLVM [documentation](https://clang.llvm.org/docs/UsersManual.html#command-line-options).
